@@ -5,8 +5,8 @@
 ##
 <div>
   <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilsonjunior10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=329BC8&text_color=ffffff&icon_color=329BC8&border_color=329BC8&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonjunior10&layout=compact&langs_count=7&theme=github_dark&title_color=329BC8&text_color=ffffff&border_color=329BC8&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilsonjuniordev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=329BC8&text_color=ffffff&icon_color=329BC8&border_color=329BC8&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonjuniordev&layout=compact&langs_count=7&theme=github_dark&title_color=329BC8&text_color=ffffff&border_color=329BC8&locale=pt-br"/>
   </a>
 </div>
 
@@ -25,4 +25,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/adilsonjunior10/adilsonjunior10/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/adilsonjuniordev/adilsonjuniordev/blob/output/github-contribution-grid-snake.svg)
