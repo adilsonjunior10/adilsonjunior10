@@ -2,7 +2,7 @@
 ##
 📚 Cientista da Computação - Puc Minas<br><br>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="18em"></a>&nbsp; Amante de Flutter!<br>
-💻 Atualmente trabalhando como freelancer em Apps Mobile.
+💻 Atualmente trabalhando como Desenvolvedor Mobile.
 
 <!-- <div>
   <a href="#">
