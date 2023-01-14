@@ -3,12 +3,13 @@
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="18em"></a>&nbsp; Amante de Flutter!<br>
 💻 Atualmente trabalhando como freelancer em Apps Mobile.
 ##
-<div>
+
+<!-- <div>
   <a href="#">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilsonjuniordev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=329BC8&text_color=ffffff&icon_color=329BC8&border_color=329BC8&locale=pt-br"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonjuniordev&layout=compact&langs_count=7&theme=github_dark&title_color=329BC8&text_color=ffffff&border_color=329BC8&locale=pt-br"/>
   </a>
-</div>
+</div> -->
 
 ##
 <div style="display: inline_block; pointer-events: none;"><br>
