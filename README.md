@@ -1,17 +1,5 @@
-### Olá, eu sou Adilson Junior! 👋
-##
-📚 Cientista da Computação pela PUC Minas.<br><br>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="18em"></a>&nbsp; Amante de Flutter!<br>
-💻 Atualmente trabalhando como Desenvolvedor Mobile.
+![github_header](https://github.com/adilsonjuniordev/adilsonjuniordev/assets/39710307/76c6adf6-f9d3-4012-b134-461a3b477698)
 
-<!-- <div>
-  <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilsonjuniordev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=329BC8&text_color=ffffff&icon_color=329BC8&border_color=329BC8&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonjuniordev&layout=compact&langs_count=7&theme=github_dark&title_color=329BC8&text_color=ffffff&border_color=329BC8&locale=pt-br"/>
-  </a>
-</div> -->
-
-##
 <div style="display: inline_block; pointer-events: none;"><br>
   <a href="#">
     <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -24,6 +12,15 @@
     <img align="center" alt="SqLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
-![Snake animation](https://github.com/adilsonjuniordev/adilsonjuniordev/blob/output/github-contribution-grid-snake.svg)
 </a>
+
+#
+
+### Olá, seja bem-vindo(a) por aqui! 👋
+### Meu nome é Adilson, e aqui você pode conhecer um pouco do meu trabalho:
+##
+🎓 Cientista da Computação formado pela Puc Minas.
+
+📚 Cursando Pós Graduação em Arquitetura de Soluções.
+
+💻 Atualmente trabalhando como Desenvolvedor Mobile utilizando Flutter & Dart.
